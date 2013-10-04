@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Jiaion Octopress Blog]]></title>
+  <title><![CDATA[Jiaion Blog]]></title>
   <link href="http://Jiaion.github.io/atom.xml" rel="self"/>
   <link href="http://Jiaion.github.io/"/>
-  <updated>2013-10-04T20:53:33+08:00</updated>
+  <updated>2013-10-04T21:30:36+08:00</updated>
   <id>http://Jiaion.github.io/</id>
   <author>
     <name><![CDATA[Jiaion]]></name>
