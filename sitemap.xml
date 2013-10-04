@@ -1,12 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://Jiaion.github.io/blog/2013/10/04/jin-tian-bo-ke-da-jian-cheng-gong/</loc>
+        <lastmod>2013-10-04T22:14:22+08:00</lastmod>
+    </url>
+    <url>
         <loc>http://Jiaion.github.io/blog/archives/</loc>
-        <lastmod>2013-10-04T20:43:12+08:00</lastmod>
+        <lastmod>2013-10-04T22:14:22+08:00</lastmod>
     </url>
     <url>
         <loc>http://Jiaion.github.io/</loc>
-        <lastmod>2013-10-04T20:43:12+08:00</lastmod>
+        <lastmod>2013-10-04T22:14:22+08:00</lastmod>
     </url>
     <url>
         <loc>http://Jiaion.github.io/robots.txt</loc>
