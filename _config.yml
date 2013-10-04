@@ -19,7 +19,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: jiaion21@gmail.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -69,7 +69,11 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: jiaion
+twitter_tweet_count: 0
+twitter_show_replies: false
+twitter_follow_button: false
+twitter_show_follower_count: false
 twitter_tweet_button: true
 
 # Google +1
